@@ -10,7 +10,7 @@
 #import "FacebookConnectPlugin.h"
 #import "JSON.h"
 
-#define APP_SECRET  @"REPLACE_ME"
+#define APP_SECRET  @"6ef812a00c5a4f4d0ed0ec48cee2aa6e"
 
 @implementation FacebookConnectPlugin
 
